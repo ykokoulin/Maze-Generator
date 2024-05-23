@@ -1,1 +1,2 @@
 The c file was the original, built for my computer science class. It does not work for large maze sizes nor is it able to create complex branching paths. Locations are binary, either letting you enter and exit from any side, or none at all.
+The python file is far more refined, with walls for each segment. The correct path still tends to go through the middle of the maze. Maze generation is visible real-time through pygame.
